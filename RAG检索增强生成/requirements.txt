@@ -1,0 +1,7 @@
+python-dotenv>=1.0.0
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+tqdm>=4.66.0
+rich>=13.7.0
+# 可选：安装 faiss-cpu 获得更快的向量检索，代码会自动降级
+faiss-cpu>=1.7.4
