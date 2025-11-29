@@ -73,6 +73,7 @@ class Agent:
         if steps < max_steps and self._should_search(task):
             results = web_search(task, max_results=self.cfg.search_max_results)
             tool_logs.append(f"[web_search] 共返回 {len(results)} 条结果")
+            print(f"[web_search] 搜索结果：{results}")
             self.memory.add("assistant", "已进行搜索：\n" + "\n".join(results[:5]))
             steps += 1
 

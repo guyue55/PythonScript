@@ -3,4 +3,5 @@ rich>=13.7.0
 numpy>=1.24.0
 pydantic>=2.7.0
 openai>=1.51.0
+ddgs>=1.0.0
 duckduckgo-search>=6.2.10
