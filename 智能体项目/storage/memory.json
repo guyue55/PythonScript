@@ -1,0 +1,74 @@
+[
+  {
+    "role": "user",
+    "content": "帮我搜索本周AI热点"
+  },
+  {
+    "role": "user",
+    "content": "帮我搜索本周AI热点"
+  },
+  {
+    "role": "assistant",
+    "content": "已进行搜索：\n"
+  },
+  {
+    "role": "assistant",
+    "content": "[回退生成] 我已收到你的请求：帮我搜索本周AI热点\n（建议配置 OPENAI_API_KEY 以启用高质量生成）"
+  },
+  {
+    "role": "user",
+    "content": "请计算(2+3)*4/5"
+  },
+  {
+    "role": "assistant",
+    "content": "计算结果：(2+3)*4/5 = 4.0"
+  },
+  {
+    "role": "assistant",
+    "content": "[回退生成] 我已收到你的请求：请计算(2+3)*4/5\n（建议配置 OPENAI_API_KEY 以启用高质量生成）"
+  },
+  {
+    "role": "user",
+    "content": "请计算(2+3)*4/5"
+  },
+  {
+    "role": "assistant",
+    "content": "计算结果：(2+3)*4/5 = 4.0"
+  },
+  {
+    "role": "assistant",
+    "content": "[回退生成] 我已收到你的请求：请计算(2+3)*4/5\n（建议配置 OPENAI_API_KEY 以启用高质量生成）"
+  },
+  {
+    "role": "user",
+    "content": "帮我搜索本周AI热点"
+  },
+  {
+    "role": "assistant",
+    "content": "已进行搜索：\n"
+  },
+  {
+    "role": "assistant",
+    "content": "[回退生成] 我已收到你的请求：帮我搜索本周AI热点\n（建议配置 OPENAI_API_KEY 以启用高质量生成）"
+  },
+  {
+    "role": "user",
+    "content": "计算 2+3"
+  },
+  {
+    "role": "assistant",
+    "content": "[回退生成] 我已收到你的请求：计算 2+3\n（建议配置对应提供商的 API Key 以启用高质量生成）"
+  },
+  {
+    "role": "user",
+    "content": "帮我搜索本周AI热点"
+  },
+  {
+    "role": "assistant",
+    "content": "已进行搜索：\n"
+  },
+  {
+    "role": "assistant",
+    "content": "[回退生成] 我已收到你的请求：帮我搜索本周AI热点\n（建议配置对应提供商的 API Key 以启用高质量生成）"
+  }
+]
